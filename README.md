@@ -21,11 +21,15 @@ GPT Smart Assistant is a Python-based AI voice assistant that listens to voice c
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/GPT-Smart-Assistant.git
 
-#cd GPT-Smart-Assistant
-#python -m pip install --upgrade pip
-#pip install openai speechrecognition pyttsx3 pyaudio
-#python app.py
-Get the API Key in this https://platform.openai.com/settings/organization/api-keys
+### **Setup Commands**
+```
+cd GPT-Smart-Assistant
+python -m pip install --upgrade pip
+pip install openai speechrecognition pyttsx3 pyaudio
+python app.py
+```
+
+Get the API Key in this ```https://platform.openai.com/settings/organization/api-keys```
 2️⃣ Usage
 
 Run the script and speak into the microphone.
