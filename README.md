@@ -30,8 +30,8 @@ python app.py
 ```
 
 Get the API Key in this ```https://platform.openai.com/settings/organization/api-keys```
-2️⃣ Usage
 
+2️⃣ Usage:
 Run the script and speak into the microphone.
 
 The assistant will process your request and respond.
